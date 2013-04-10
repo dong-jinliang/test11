@@ -49,7 +49,7 @@ bool HelloWorld::init()
     /////////////////////////////
     // 3. add your codes below...
 
-    // add a label shows "Hello World" sdfgvd
+    // add a label shows "Hello World" dsgvf
     // create and initialize a label
     CCLabelTTF* pLabel = CCLabelTTF::create("Hello World", "Thonburi", 34);
 
